@@ -2,6 +2,7 @@
   "name": "image_processor_app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Zhiwei5.github.io"
   "dependencies": {
     "axios": "^0.18.0",
     "fs": "0.0.1-security",
